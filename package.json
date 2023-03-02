@@ -1,0 +1,15 @@
+{
+    "name": "cat-potato",
+    "version": "1.0.0",
+    "description": "development of app",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "keywords": [],
+    "author": "coffeepawz and UCB",
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  
